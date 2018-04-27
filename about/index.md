@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: Sobre o blog 
+tags: [about, Jekyll, sobre, sobre mim, contato ]
+date: 2018-04-26
 comments: false
 ---
     
@@ -32,6 +32,7 @@ See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub
 
 ## Getting Started
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
+To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for 
+information.
       
 [Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
