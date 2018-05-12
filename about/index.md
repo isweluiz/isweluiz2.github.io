@@ -2,13 +2,13 @@
 layout: page
 title: Sobre o blog 
 tags: [about, Jekyll, sobre, sobre mim, contato ]
-date: 2018-04-26
-comments: false
+date: 2018-05-12
+comments: True
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center><a href="http://isweluiz.com.br"><b>Isweluiz</b></a>about me and my blog. </center>
 
-## Features
+## About me 
 * Minimal, you can focus on your content
 * Responsive
 * Disqus integration
@@ -20,19 +20,14 @@ comments: false
 * Simple navigation menu
 * MathJax support
 
-## Preview
+[//]: ## Preview
+[comment]: <> (This is a comente)
+[//]: {% capture images %}
+[//]: https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
+[//]:    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
+[//]: {% endcapture %}
+[//]: {% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+## Contact me
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for 
-information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+[Linkedin](https://www.linkedin.com/in/isweluiz/){: .btn}  [Github](https://github.com/isweluiz){: .btn}
