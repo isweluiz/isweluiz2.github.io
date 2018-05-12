@@ -71,6 +71,6 @@ gems:
   - jekyll-gist
 
 jekyll-mentions:
-base_url: "/isweluiz.github.io"
+base_url: 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
