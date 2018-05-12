@@ -38,14 +38,14 @@ disqus_shortname:   parad0x443
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
-twitter:            username
+email:             isweluiz@hotmail.com
+#twitter:            username
 #facebook:           username
 github-url:         isweluiz
-stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
+#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 linkedin:          isweluiz
 #xing:              username
-#instagram:          username
+instagram:          isweluiz
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
@@ -53,8 +53,8 @@ linkedin:          isweluiz
 #foursquare:        username
 #steam:              username
 #dribbble:          username
-#youtube:           username
-youtube-channel:   channel
+youtube:           duduzation1
+#youtube-channel:   channel
 #soundcloud:        username
 #weibo:             username
 #flickr:            username
