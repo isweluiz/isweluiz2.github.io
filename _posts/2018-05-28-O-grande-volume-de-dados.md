@@ -2,7 +2,7 @@
 layout: post
 title: "O grande volume de dados"
 date: 2018-05-28
-excerpt: "A ton of text to test readability."
+excerpt: "Big data. O que é e qual sua importância?"
 tags: [big data, data science]
 comments: true
 ---
@@ -10,28 +10,13 @@ comments: true
 ## Big data
 ### O que é e qual sua importância? 
 
+Big data é um termo que descreve o grande volume de dados tanto estruturados quanto não estruturados  que impactam as empresas diariamente. Mas não é a quantidade de dados disponíveis que importa é o que as organizações fazem com eles. Big data pode ser analisado para obter insights que levam a decisões melhores e ações estratégicas de negócio.
 
-Big data é um termo que descreve o grande volume de dados tanto estruturados quanto não estruturados  que impactam as empresas diariamente. Mas não é a quantidade de dados disponíveis que importa; é o que as organizações fazem com eles. Big data pode ser analisado para obter insights que levam a decisões melhores e ações estratégicas de negócio.
-
-<div markdown="0"><a href="#" class="btn">História</a></div> <div markdown="0"><a href="#" class="btn">Importância</a></div> <div markdown="0"><a href="#" class="btn">Quem usa</a></div> <div markdown="0"><a href="#" class="btn">Como funciona</a></div>
-
-
+![A esquerda, o big data e a Era da Informação](https://i.imgur.com/zEzTAbv.jpg)
 
 ### História e considerações atuais de big data
 
 Embora o termo "big data" seja relativamente novo, o ato de coletar e armazenar grandes quantidades de informações para análises eventuais é muito antiga. O conceito ganhou força no começo dos anos 2000, quando o analista Doug Laney articulou a definição [atualmente mainstream] de big data em três Vs:
-
-
-```mermaid
-graph LR
-A((Volume)) --> B[Velocidade]
-A --> C[Variedade]
-B --> D[Veracidade]
-C --> E[Valor]
-E --> F
-D --> F{Big Data}
-```
-
 
 **Volume.** Organizações coletam dados de fontes variadas, incluindo transações financeiras, redes sociais e informações de sensores ou dados transmitidos de máquina para máquina. No passado, armazená-los teria sido um problema mas novas tecnologias [como o Hadoop](http://hadoop.apache.org) aliviaram esse fardo.
 
@@ -47,6 +32,7 @@ D --> F{Big Data}
 
 A quantidade de dados criados e armazenados globalmente é quase inimaginável e apenas continua a crescer. Isso significa que há ainda mais potencial para extrair insights importantes dessas informações — embora apenas uma pequena porcentagem de dados seja realmente analisada. O que isso significa para as empresas? Como elas podem fazer um uso melhor dessas informações brutas que fluem para dentro de suas paredes todos os dias?
 
+-----
 
 ### Qual é a importância do big data?
 
@@ -57,6 +43,7 @@ A importância do big data não gira em torno da quantidade de dados disponívei
 * Recalcular carteiras de riscos completas em minutos;
 * Detectar comportamentos fraudulentos antes que eles afetem sua organização.
 
+-----
 
 ### Quem usa big data?
 
@@ -78,4 +65,54 @@ Munida com insights que big data pode fornecer, a indústria manufatureira pode 
 **Varejo**
 Construir relacionamentos com clientes é fundamental para o setor de varejo — e a melhor maneira de gerenciá-los é através de big data. Os varejistas precisam saber a melhor maneira de abordar os clientes, a maneira mais eficaz de lidar com transações e a maneira mais estratégica de aumentar o número de negócios repetidos. O big data está no coração de todas essas coisas.
 
+
+> É importante lembrar que o principal valor do big data não vem dos dados em sua forma bruta, mas do processamento e da análise desses dados, e dos insights, produtos e serviços que surgem dessa análise. As mudanças radicais nas tecnologias e abordagens de gestão de big data devem ser acompanhadas por mudanças semelhantemente dramáticas na forma como os dados suportam decisões e geram inovação na forma de produtos e serviços.
+
+-----
+
+### Como big data funciona?
+
+#### As fontes de big data geralmente se encaixam em uma destas três categorias:
+
+
+**Dados transmitidos (streaming data)** 
+
+Essa categoria inclui dados que chegam aos seus sistemas de TI a partir de uma rede de dispositivos conectados. Você pode analisá-los no momento em que eles chegam, e tomar decisões sobre quais dados manter, quais não manter e quais requerem uma análise posterior mais aprofundada
+
+
+**Dados de redes sociais**
+
+Os dados de interações sociais são um conjunto cada vez mais atraente de informações, particularmente para marketing, vendas e funções de apoio. São muitas vezes capturados em forma não-estruturada ou semi-estruturada, por isso representam um desafio único quando se trata de consumo e análise
+
+
+**Fontes publicamente disponíveis**
+
+Enormes volumes de dados estão disponíveis por meio de canais públicos como o dados.gov.br do governo brasileiro, o World Factbook da CIA ou o Portal de Dados Abertos da União Europeia.
+
+> Após identificar todas as fontes de dados potenciais, considere as decisões que você precisará tomar uma vez que você comece a fazer uso destas informações. Eslas incluem:
+
+**Como armazenar e gerenciar**
+
+Embora o armazenamento de dados teria sido um problema alguns anos atrás, hoje existem opções de baratas caso essa seja a melhor estratégia para seu negócio.
+
+**Quanto deve ser analisado** 
+
+Algumas organizações não excluem quaisquer dados de duas análises, o que é possível graças às tecnologias de alta performance de hoje, como computação em grid ou in-memory analytics. Outra abordagem é determinar antecipadamente quais dados são relevantes antes de analisá-los.
+
+**Como utilizar os insights descobertos**
+
+Quanto mais conhecimento você tiver, mais confiante você estará para tomar decisões de negócio. É importante ter uma estratégia desenhada para quando você tiver uma abundância de informações em mãos.
+
+
+> O passo final em fazer o big data trabalhar a favor do seu negócio é buscar pelas tecnologias que o ajudarão a tirar melhor proveito dele e de suas análises. Considere:
+
+* Armazenamento barato e abundante;
+* Processadores mais rápidos;
+* Open source acessível e plataformas distribuidas de big data como o Hadoop;
+* Processamento paralelo, clusterização, MPP, virtualização, grandes ambientes de grid, alta conectividade e altas taxas de transferência;
+* Computação em nuvem (cloud computing) e outros arranjos de alocação flexível de recursos.
+
+
 Fontes;  [sas](https://www.sas.com/pt_br/insights/big-data/what-is-big-data.html), [canaltech](https://canaltech.com.br/big-data/Big-Data-os-cinco-Vs-que-todo-mundo-deveria-saber/)
+
+
