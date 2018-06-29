@@ -7,8 +7,8 @@ words_per_minute:   180
 logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
-locale:             en_US
-#url:                isweluiz.com.br
+locale:             America/Sao_Paulo
+#url:               isweluiz.com.br
 
 
 # Jekyll
