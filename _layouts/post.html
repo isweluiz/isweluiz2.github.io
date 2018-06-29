@@ -17,61 +17,19 @@ layout: compress
             <div class="content">
                 <div class="post-title {% if page.feature %} feature {% endif %}">
                     <h1>{{ page.title }}</h1>
-                    <h4>{{ page.date | date_to_string }}</h4>
-                    {% if site.reading_time %}
-                    <p class="reading-time">
-                      <i class="fa fa-clock-o"></i>
-                      {% include read-time.html %}
-                    </p><!-- /.entry-reading-time -->
-                    {% endif %}
-                    {% if page.project %}
-                    <a class="btn zoombtn" href="{{site.url}}/projects/">
-                    {% else %}
-                    <a class="btn zoombtn" href="{{site.url}}/posts/">
-                    {% endif %}
+                    <a class="btn zoombtn" href="{{site.url}}">
                         <i class="fa fa-chevron-left"></i>
                     </a>
                 </div>
                 {{ content }}
-                <div class="entry-meta">
-                {% include meta.html %}
-                </div>
             </div>
         </div>
-
-{% include scripts.html %}
-{% if site.mathjax == true %}
-
-    <script id="dsq-count-scr" src="//beertecno.disqus.com/count.js" async></script>
+        {% if page.comments and site.disqus_shortname %}<section id="disqus_thread" class="animated fadeInUp"></section><!-- /#disqus_thread -->{% endif %}
+    </header>
+    {% include scripts.html %}
+    {% if site.mathjax == true %}
     <!-- MathJax -->
     <script async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-{% endif %}
-
-
-        {% if page.comments %}
-        <div id="disqus_thread"></div>
-        <script>
-        
-        /**
-        *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-        *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
-        /*
-        
-        };
-        */
-        var disqus_config = function () {
-        this.page.url = {{ site.url}} {{ site.baseurl}} {{ page.url}}; 
-        this.page.identifier = {{ page.url }}; 
-        (function() {
-        var d = document, s = d.createElement('script');
-        s.src = 'https://isweluiz-com-br.disqus.com/embed.js';
-        s.setAttribute('data-timestamp', +new Date());
-        (d.head || d.body).appendChild(s);
-        })();
-        </script>
-        <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-                                    
-        {% endif %}
-    </header>
+    {% endif %}
 </body>
 </html>
