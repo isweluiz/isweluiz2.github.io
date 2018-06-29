@@ -39,27 +39,27 @@ layout: compress
             </div>
         </div>
           
-
+        {% include scripts.html %}
+   
+        <!-- MathJax -->
+        <script id="dsq-count-scr" src="//isweluiz-com-br.disqus.com/count.js" async></script>
+    
+        <div id="disqus_thread"></div>
+        <script>
+        (function() { 
+        var d = document, s = d.createElement('script');
+        s.src = 'https://isweluiz-com-br.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+        })();
+        </script>
+        <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+       <!-- <script async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script> -->
+    
             
       <!--  {% if page.comments and site.disqus_shortname %}<section id="disqus_thread" class="animated fadeInUp"></section><!-- /#disqus_thread {% endif %}-->
     </header>
-    {% include scripts.html %}
-   
-    <!-- MathJax -->
-    <script id="dsq-count-scr" src="//isweluiz-com-br.disqus.com/count.js" async></script>
-
-    <div id="disqus_thread"></div>
-    <script>
-    (function() { 
-    var d = document, s = d.createElement('script');
-    s.src = 'https://isweluiz-com-br.disqus.com/embed.js';
-    s.setAttribute('data-timestamp', +new Date());
-    (d.head || d.body).appendChild(s);
-    })();
-    </script>
-    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-   <!-- <script async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script> -->
-
+  
 
 </body>
 </html>
