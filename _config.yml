@@ -26,7 +26,7 @@ sass:
   sass_dir:         _sass
   style:            compressed
 
-# Comments
+#Comments
 disqus_shortname:   isweluiz
 
 # Social
