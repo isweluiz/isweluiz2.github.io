@@ -4,7 +4,7 @@ title: "O grande volume de dados"
 date: 2018-05-28
 excerpt: "Big data. O que é e qual sua importância?"
 tags: [big data, data science]
-comments: true
+comments: false
 ---
 
 ## Big data
