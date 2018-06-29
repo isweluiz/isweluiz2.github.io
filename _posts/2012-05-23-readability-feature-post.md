@@ -5,7 +5,7 @@ date: 2018-05-30
 excerpt: "Definição e conceito sobre DA(data analytics)"
 tags: [sample post,data science,analytics]
 feature: http://i.imgur.com/Ds6S7lJ.png
-comments: true
+comments: false
 
 ---
 ## DA (Data Analytics) 
