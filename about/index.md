@@ -16,7 +16,7 @@ comments: false
 
 - Certificações ; Linux + , LPIC 1, Comptia Cloud Essentials, ITIL V3. 
 
-- Atualmente ocupo o cargo de Analista de Redes. Caso tenha interesse em bater um papo e saber mais sobre mim, abaixo estão meus contato. Chama lá ;)    
+- Atualmente ocupo o cargo de Analista de Redes. Caso tenha interesse em bater um papo e saber mais, abaixo estão meus contatos.  
 
 ## Contact me
 
