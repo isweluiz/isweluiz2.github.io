@@ -4,7 +4,7 @@ title: "Por Que Você Deve Aprender Álgebra Linear Para Trabalhar com Machine L
 date: 2018-10-11
 excerpt: "Assim como uma base sólida é essencial para um edifício, a Álgebra Linear constitui um segmento de aprendizado essencial para trabalhar com Machine Learning"
 tags: [machine learning, álgebra,data science,analytics]
-feature: https://imgur.com/a/vItrZoZ
+feature: https://i.imgur.com/KbgNFBx.jpg
 comments: false
 
 ---
