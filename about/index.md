@@ -12,9 +12,9 @@ comments: false
 
 #### Formação
 
-- Meu nome é Luiz Eduardo tenho 21 anos sou graduado em redes de computadores pela Universidade católica de Brasília, pós graduando em Ciência de dados pelo IESB Brasília. 
+- Meu nome é Luiz Eduardo tenho 21 anos sou graduado em redes de computadores pela Universidade católica de Brasília, especializado em Ciência de dados pelo IESB Brasília. 
 
-- Certificações ; Linux + , LPIC 1, Comptia Cloud Essentials, ITIL V3. 
+- Certificações ; Linux + , LPIC 1, LPIC 2, Comptia Cloud Essentials, ITIL V3. 
 
 - Atualmente ocupo o cargo de Analista de Redes. Caso tenha interesse em bater um papo e saber mais, abaixo estão meus contatos.  
 
