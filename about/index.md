@@ -14,4 +14,4 @@ Pós graduado em ciência de dados, possui certificações LPIC3, RHCSA,Cloud Es
 
 ## Contact me
 
-[Linkedin](https://www.linkedin.com/in/isweluiz/){: .btn}  [Github](https://github.com/isweluiz){: .btn}
+[Linkedin](https://www.linkedin.com/in/isweluiz/){: .btn}  [Github](https://github.com/isweluiz){: .btn} [Blog técnico](https://blog.isweluiz.com.br){: .btn}
