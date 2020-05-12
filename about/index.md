@@ -2,21 +2,15 @@
 layout: page
 title: Resumo sobre mim
 tags: [sobre mim, contato]
-date: 2018-06-29
+date: 2020-05-10
 comments: false 
 ---
     
 <center><a href="http://isweluiz.com.br"><b>Isweluiz </b></a>Sobre mim. </center>
 
-## Quem sou? O que faço? ?
+## Quem sou eu?
 
-#### Formação
-
-- Meu nome é Luiz Eduardo tenho 21 anos sou graduado em redes de computadores pela Universidade católica de Brasília, especializado em Ciência de dados pelo IESB Brasília. 
-
-- Certificações ; Linux + , LPIC 1, LPIC 2, Comptia Cloud Essentials, ITIL V3. 
-
-- Atualmente ocupo o cargo de Analista de Redes. Caso tenha interesse em bater um papo e saber mais, abaixo estão meus contatos.  
+Pós graduado em ciência de dados, possui certificações LPIC3, RHCSA,Cloud Essentials e ITIL. Se arrisca em segurança da informação. Paixão por blogs, pelo mundo digital, tecnologia e livros.
 
 ## Contact me
 
